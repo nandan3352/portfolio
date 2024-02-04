@@ -19,8 +19,6 @@ const Footer = () => {
         <a href="https://instagram.com/nandan27072004" target='_blank' rel='noreferrer' ><FiInstagram /></a>
         <a href="https://github.com/nandan3352" target="_blank" rel='noreferrer' ><FaGithub /></a>
         
-        <a href="https://github.com/nandan3352" target="_blank" rel='noreferrer' ><BsLinkedin /></a>
-        
       </div>
     </footer>
   )
